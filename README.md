@@ -1,4 +1,5 @@
 # IDEX Monitor
+![idex monitor](https://raw.githubusercontent.com/mragicl/idex_monitor/master/img/IdexMonitor.png)
 
 Monitor used to display data from the idex staking tier 3 (uptime, earned credits, percentage online, ...).
 It will display the data in a grafana Dashboard.
