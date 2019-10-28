@@ -10,3 +10,4 @@ docker run -d   --name docker-idex-monitor   -p 3003:3003   -p 3004:8888   -p 80
 virtualenv -p python3.6 venv/idex_monitor
 source venv/idex_monitor/bin/activate
 pip install -r python/requirements.txt
+deactivate
